@@ -17,6 +17,6 @@ The base framework:
 
 🖼️ ROI Extraction around key landmarks to focus on micro-expression-relevant areas.
 
-📊 Classification of micro-expressions into emotion classes using an EfficientNet-based backbone.
+📊 Classification of micro-expressions into emotion classes.
 
 <img width="2076" height="1592" alt="Flowchart" src="https://github.com/user-attachments/assets/9e8162f4-bec1-4580-a6bc-2c24561a6ed5" />
