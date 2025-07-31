@@ -1,0 +1,13 @@
+This project uses three widely-recognized spontaneous micro-expression datasets:
+
+SAMM
+
+CASME II
+
+SMIC
+
+These datasets are not included in this repository due to licensing restrictions. You can obtain them directly from the respective authors or institutions as cited in their original research papers.
+
+Once obtained, the datasets can be combined into a unified static image dataset using the method proposed in the MGC209 (MGRC sub-challenge) approach. This process standardizes the frame format, labels, and file structure to enable unified training across datasets.
+
+For details on dataset preparation and alignment, please refer to the MGC209 official guidelines or replication instructions.
