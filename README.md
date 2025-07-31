@@ -1,5 +1,6 @@
 # ME_Recognition
-Recognizing subtle facial micro-expressions using EfficientNet, PSR, attention modules, Transformers, and GCNs.
+Recognizing subtle facial micro-expressions using EfficientNet, PSR, attention modules, Transformers, and GCNs only from the apex frame of the subjects video sequence.
+It is based for real time application.
 The base framework:
 
 ✅ Landmark Extraction using MediaPipe to localize facial keypoints.
